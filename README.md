@@ -76,9 +76,9 @@ Feel free to reach out with:
 
 - 💬 Tips or advice
 - 💡 Collaboration ideas
-- 🙌 Just to say hi!
-
- LinkedIn: https://www.linkedin.com/in/hitesh-gundeti-a29b81335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🙌 Just to say 
+<!-- Optional: Add LinkedIn or email contact if you'd like -->
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-gundeti-a29b81335/) -->
 
 Email:heetz.2005@gmail.com 
 
